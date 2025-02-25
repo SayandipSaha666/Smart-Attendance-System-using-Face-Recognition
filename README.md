@@ -24,8 +24,8 @@ Ensure you have Python installed. You can download it from [Python's official we
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/smart-attendance-system.git
-cd smart-attendance-system
+git clone https://github.com/SayandipSaha666/Smart-Attendance-System-using-Face-Recognition.git
+cd Smart-Attendance-System-using-Face-Recognition
 ```
 
 ### Step 2: Install Required Libraries
@@ -53,7 +53,7 @@ python main.py
 
 ## Project Structure
 ```
-smart-attendance-system/
+Smart-Attendance-System-using-Face-Recognition/
 │── dataset/                 # Stores images for training
 │── encodings/               # Stores encoded face data
 │── firebase/                # Firebase configuration files
@@ -76,5 +76,5 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 
 ---
 
-For any issues or suggestions, please open an issue in the [GitHub Repository](https://github.com/SayandipSaha666/Smart-Attendance-System-using-Face-A).
+For any issues or suggestions, please open an issue in the [GitHub Repository](https://github.com/SayandipSaha666/Smart-Attendance-System-using-Face-Recognition).
 
